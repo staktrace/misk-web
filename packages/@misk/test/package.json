@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@testing-library/dom": "7.22.2",
-    "@testing-library/react": "10.4.8",
+    "@testing-library/react": "11.2.2",
     "@types/jest": "26.0.14",
     "@types/node": "11.13.1",
     "jest": "24.9.0",

@@ -60,7 +60,7 @@
     "jest-emotion": "10.0.14",
     "@misk/tslint": "0.1.27-78",
     "@testing-library/dom": "7.22.2",
-    "@testing-library/react": "10.4.8",
+    "@testing-library/react": "11.2.2",
     "@types/history": "4.7.8",
     "@types/jest": "26.0.14",
     "@types/lodash": "4.14.167",
